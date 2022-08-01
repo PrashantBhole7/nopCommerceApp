@@ -1,0 +1,101 @@
+07292022 115421 AM INFO ********** TestLoginDDT002 **********
+07292022 115421 AM INFO ********** Verifying Login Page DDT Title **********
+07292022 115450 AM INFO ****** Passed *******
+07292022 115458 AM INFO ****** Passed *******
+07292022 115503 AM INFO ****** Passed *******
+07292022 115509 AM INFO ****** Passed *******
+07292022 115509 AM INFO ****** Login DDT Test Passed *********
+07292022 115509 AM INFO ****** End of Login DDT Test *********
+07292022 115509 AM INFO ****** Completed TestLoginDDT002  *********
+07302022 060123 PM INFO ********** TestAddCustomer003 **********
+07302022 060132 PM INFO ********** Login Successful **********
+07302022 060132 PM INFO ********** Starting Add Customer Test **********
+07302022 060136 PM INFO ********** Providing Customer Info **********
+07302022 060550 PM INFO ********** TestAddCustomer003 **********
+07302022 060559 PM INFO ********** Login Successful **********
+07302022 060559 PM INFO ********** Starting Add Customer Test **********
+07302022 060723 PM INFO ********** TestAddCustomer003 **********
+07302022 060732 PM INFO ********** Login Successful **********
+07302022 060732 PM INFO ********** Starting Add Customer Test **********
+07302022 060831 PM INFO ********** TestAddCustomer003 **********
+07302022 060838 PM INFO ********** Login Successful **********
+07302022 060838 PM INFO ********** Starting Add Customer Test **********
+07302022 061514 PM INFO ********** TestAddCustomer003 **********
+07302022 061523 PM INFO ********** Login Successful **********
+07302022 061523 PM INFO ********** Starting Add Customer Test **********
+07302022 061529 PM INFO ********** Providing Customer Info **********
+07302022 061719 PM INFO ********** TestAddCustomer003 **********
+07302022 061801 PM INFO ********** Login Successful **********
+07302022 061801 PM INFO ********** Starting Add Customer Test **********
+07302022 061812 PM INFO ********** Providing Customer Info **********
+07302022 062328 PM INFO ********** TestAddCustomer003 **********
+07302022 062336 PM INFO ********** Login Successful **********
+07302022 062336 PM INFO ********** Starting Add Customer Test **********
+07302022 062344 PM INFO ********** Providing Customer Info **********
+07302022 062542 PM INFO ********** TestAddCustomer003 **********
+07302022 062550 PM INFO ********** Login Successful **********
+07302022 062550 PM INFO ********** Starting Add Customer Test **********
+07302022 062557 PM INFO ********** Providing Customer Info **********
+07302022 063017 PM INFO ********** TestAddCustomer003 **********
+07302022 063025 PM INFO ********** Login Successful **********
+07302022 063025 PM INFO ********** Starting Add Customer Test **********
+07302022 063031 PM INFO ********** Providing Customer Info **********
+07302022 063737 PM INFO ********** TestAddCustomer003 **********
+07302022 063744 PM INFO ********** Login Successful **********
+07302022 063744 PM INFO ********** Starting Add Customer Test **********
+07302022 063751 PM INFO ********** Providing Customer Info **********
+07302022 063948 PM INFO ********** TestAddCustomer003 **********
+07302022 064003 PM INFO ********** Login Successful **********
+07302022 064003 PM INFO ********** Starting Add Customer Test **********
+07302022 064011 PM INFO ********** Providing Customer Info **********
+07302022 064019 PM INFO ********** Saving Customer Info **********
+07302022 064019 PM INFO ********** Providing Customer Info **********
+07302022 064020 PM INFO ********** Login Page Title Failed **********
+07302022 064223 PM INFO ********** TestAddCustomer003 **********
+07302022 064231 PM INFO ********** Login Successful **********
+07302022 064231 PM INFO ********** Starting Add Customer Test **********
+07302022 064237 PM INFO ********** Providing Customer Info **********
+07302022 064422 PM INFO ********** TestAddCustomer003 **********
+07302022 064431 PM INFO ********** Login Successful **********
+07302022 064431 PM INFO ********** Starting Add Customer Test **********
+07302022 064438 PM INFO ********** Providing Customer Info **********
+07302022 064448 PM INFO ********** Saving Customer Info **********
+07302022 064448 PM INFO ********** Providing Customer Info **********
+07302022 064448 PM INFO *********Add Customer Test is Passed********
+07302022 064448 PM INFO ********** Ending Add Customer Test **********
+07312022 104929 AM INFO ********** TestAddCustomer003 **********
+07312022 104935 AM INFO ********** Login Successful **********
+07312022 104935 AM INFO ********** Starting Add Customer Test **********
+07312022 104940 AM INFO ********** Providing Customer Info **********
+07312022 104949 AM INFO ********** Saving Customer Info **********
+07312022 104949 AM INFO ********** Providing Customer Info **********
+07312022 104949 AM INFO *********Add Customer Test is Passed********
+07312022 104950 AM INFO ********** Ending Add Customer Test **********
+07312022 105116 AM INFO ********** TestAddCustomer003 **********
+07312022 105122 AM INFO ********** Login Successful **********
+07312022 105122 AM INFO ********** Starting Add Customer Test **********
+07312022 105128 AM INFO ********** Providing Customer Info **********
+07312022 105145 AM INFO ********** Saving Customer Info **********
+07312022 105145 AM INFO ********** Providing Customer Info **********
+07312022 105145 AM INFO *********Add Customer Test is Passed********
+07312022 105145 AM INFO ********** Ending Add Customer Test **********
+07312022 105317 AM INFO ********** TestAddCustomer003 **********
+07312022 105324 AM INFO ********** Login Successful **********
+07312022 105324 AM INFO ********** Starting Add Customer Test **********
+07312022 105329 AM INFO ********** Providing Customer Info **********
+07312022 105416 AM INFO ********** TestAddCustomer003 **********
+07312022 105422 AM INFO ********** Login Successful **********
+07312022 105422 AM INFO ********** Starting Add Customer Test **********
+07312022 105428 AM INFO ********** Providing Customer Info **********
+07312022 105445 AM INFO ********** Saving Customer Info **********
+07312022 105445 AM INFO ********** Providing Customer Info **********
+07312022 105445 AM INFO *********Add Customer Test is Passed********
+07312022 105445 AM INFO ********** Ending Add Customer Test **********
+07312022 114400 AM INFO ********** TestSearchCustomer004 **********
+07312022 114410 AM INFO ********** Login Successful **********
+07312022 114410 AM INFO ********** Starting Search Customer By Email **********
+07312022 114414 AM INFO ********** Searching customer by email_id **********
+07312022 114643 AM INFO ********** TestSearchCustomer004 **********
+07312022 114651 AM INFO ********** Login Successful **********
+07312022 114651 AM INFO ********** Starting Search Customer By Email **********
+07312022 114654 AM INFO ********** Searching customer by email_id **********
