@@ -1,0 +1,75 @@
+07312022 115532 AM INFO ********** TestSearchCustomer004 **********
+07312022 115558 AM INFO ********** Login Successful **********
+07312022 115558 AM INFO ********** Starting Search Customer By Email **********
+07312022 115601 AM INFO ********** Searching customer by email_id **********
+07312022 120017 PM INFO ********** TestSearchCustomer004 **********
+07312022 120025 PM INFO ********** Login Successful **********
+07312022 120025 PM INFO ********** Starting Search Customer By Email **********
+07312022 120028 PM INFO ********** Searching customer by email_id **********
+07312022 120110 PM INFO ********** TestSearchCustomer004 **********
+07312022 120118 PM INFO ********** Login Successful **********
+07312022 120118 PM INFO ********** Starting Search Customer By Email **********
+07312022 120121 PM INFO ********** Searching customer by email_id **********
+07312022 120341 PM INFO ********** TestSearchCustomer004 **********
+07312022 120349 PM INFO ********** Login Successful **********
+07312022 120349 PM INFO ********** Starting Search Customer By Email **********
+07312022 120353 PM INFO ********** Searching customer by email_id **********
+07312022 120353 PM INFO ********** TestSearchCustomer004 Completed **********
+07312022 120534 PM INFO ********** TestSearchCustomer004 **********
+07312022 120543 PM INFO ********** Login Successful **********
+07312022 120543 PM INFO ********** Starting Search Customer By Email **********
+07312022 120546 PM INFO ********** Searching customer by email_id **********
+07312022 120547 PM INFO ********** TestSearchCustomer004 Completed **********
+07312022 121337 PM INFO ********** TestSearchCustomer005 **********
+07312022 121346 PM INFO ********** Login Successful **********
+07312022 121346 PM INFO ********** Starting Search Customer By Name **********
+07312022 121349 PM INFO ********** Searching customer by name **********
+07312022 121505 PM INFO ********** TestSearchCustomer005 **********
+07312022 121514 PM INFO ********** Login Successful **********
+07312022 121514 PM INFO ********** Starting Search Customer By Name **********
+07312022 121518 PM INFO ********** Searching customer by name **********
+07312022 121714 PM INFO ********** TestSearchCustomer005 **********
+07312022 121758 PM INFO ********** Login Successful **********
+07312022 121758 PM INFO ********** Starting Search Customer By Name **********
+07312022 121801 PM INFO ********** Searching customer by name **********
+07312022 121803 PM INFO ********** TestSearchCustomer005 Completed **********
+08012022 110344 AM INFO ********** TestAddCustomer003 **********
+08012022 110351 AM INFO ********** Login Successful **********
+08012022 110351 AM INFO ********** Starting Add Customer Test **********
+08012022 110401 AM INFO ********** Providing Customer Info **********
+08012022 110418 AM INFO ********** Saving Customer Info **********
+08012022 110418 AM INFO ********** Providing Customer Info **********
+08012022 110419 AM INFO *********Add Customer Test is Passed********
+08012022 110419 AM INFO ********** Ending Add Customer Test **********
+08012022 110420 AM INFO ********** TestLogin001 **********
+08012022 110420 AM INFO ********** Verifying Home Page Title **********
+08012022 110423 AM INFO ********** Home Page Title Passed **********
+08012022 110424 AM INFO ********** TestLogin001 **********
+08012022 110424 AM INFO ********** Verifying Login Page Title **********
+08012022 110431 AM INFO ********** Login Page Title Passed **********
+08012022 111131 AM INFO ********** TestAddCustomer003 **********
+08012022 111138 AM INFO ********** Login Successful **********
+08012022 111138 AM INFO ********** Starting Add Customer Test **********
+08012022 111146 AM INFO ********** Providing Customer Info **********
+08012022 111203 AM INFO ********** Saving Customer Info **********
+08012022 111203 AM INFO ********** Providing Customer Info **********
+08012022 111204 AM INFO *********Add Customer Test is Passed********
+08012022 111204 AM INFO ********** Ending Add Customer Test **********
+08012022 111205 AM INFO ********** TestLogin001 **********
+08012022 111205 AM INFO ********** Verifying Home Page Title **********
+08012022 111207 AM INFO ********** Home Page Title Passed **********
+08012022 111208 AM INFO ********** TestLogin001 **********
+08012022 111208 AM INFO ********** Verifying Login Page Title **********
+08012022 111216 AM INFO ********** Login Page Title Passed **********
+08012022 112036 AM INFO ********** TestLogin001 **********
+08012022 112036 AM INFO ********** Verifying Home Page Title **********
+08012022 112039 AM INFO ********** Home Page Title Passed **********
+08012022 112040 AM INFO ********** TestLogin001 **********
+08012022 112040 AM INFO ********** Verifying Login Page Title **********
+08012022 112046 AM INFO ********** Login Page Title Passed **********
+08012022 112208 AM INFO ********** TestLogin001 **********
+08012022 112208 AM INFO ********** Verifying Home Page Title **********
+08012022 112211 AM INFO ********** Home Page Title Passed **********
+08012022 112212 AM INFO ********** TestLogin001 **********
+08012022 112212 AM INFO ********** Verifying Login Page Title **********
+08012022 112219 AM INFO ********** Login Page Title Passed **********
