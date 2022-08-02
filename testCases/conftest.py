@@ -2,18 +2,17 @@ import pytest
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 
-
 @pytest.fixture()
 def setup(browser):
     if browser == 'chrome':
-        serv_obj = Service("/home/prashant/Documents/Browser_Driver/chrome_102/chromedriver")
-        driver = webdriver.Chrome(service=serv_obj)
+        serv_obj = Service("/usr/bin/chromedriver")
+        driver = webdriver.Chrome()
     elif browser == 'firefox':
         serv_obj = Service("/home/prashant/Documents/Browser_Driver/geckodriver")
         driver = webdriver.Firefox(service=serv_obj)
     else:
-        serv_obj = Service("/home/prashant/Documents/Browser_Driver/chrome_102/chromedriver")
-        driver = webdriver.Chrome(service=serv_obj)
+        serv_obj = Service("/usr/bin/chromedriver")
+        driver = webdriver.Chrome()
     return driver
 
 
