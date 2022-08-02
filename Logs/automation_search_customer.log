@@ -73,3 +73,24 @@
 08012022 112212 AM INFO ********** TestLogin001 **********
 08012022 112212 AM INFO ********** Verifying Login Page Title **********
 08012022 112219 AM INFO ********** Login Page Title Passed **********
+08022022 030645 PM INFO ********** TestAddCustomer003 **********
+08022022 030707 PM INFO ********** Login Successful **********
+08022022 030707 PM INFO ********** Starting Add Customer Test **********
+08022022 030712 PM INFO ********** Providing Customer Info **********
+08022022 030745 PM INFO ********** Saving Customer Info **********
+08022022 030745 PM INFO ********** Providing Customer Info **********
+08022022 030745 PM INFO *********Add Customer Test is Passed********
+08022022 030745 PM INFO ********** Ending Add Customer Test **********
+08022022 030746 PM INFO ********** TestLogin001 **********
+08022022 030746 PM INFO ********** Verifying Home Page Title **********
+08022022 030749 PM INFO ********** Home Page Title Passed **********
+08022022 030750 PM INFO ********** TestLogin001 **********
+08022022 030750 PM INFO ********** Verifying Login Page Title **********
+08022022 030757 PM INFO ********** Login Page Title Passed **********
+08022022 030903 PM INFO ********** TestAddCustomer003 **********
+08022022 030926 PM INFO ********** Login Successful **********
+08022022 030926 PM INFO ********** Starting Add Customer Test **********
+08022022 030927 PM INFO ********** TestLogin001 **********
+08022022 030927 PM INFO ********** Verifying Home Page Title **********
+08022022 030931 PM INFO ********** TestLogin001 **********
+08022022 030931 PM INFO ********** Verifying Login Page Title **********
