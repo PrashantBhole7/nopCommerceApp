@@ -36,3 +36,4 @@ typing_extensions==4.3.0
 urllib3==1.26.11
 wsproto==1.1.0
 zipp==3.8.1
+chromium-chromedriver==104.0.5112.20
