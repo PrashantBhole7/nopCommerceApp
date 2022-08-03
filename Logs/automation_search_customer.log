@@ -128,3 +128,49 @@
 08032022 063054 AM INFO ********** TestLogin001 **********
 08032022 063054 AM INFO ********** Verifying Login Page Title **********
 08032022 063107 AM INFO ********** Login Page Title Passed **********
+08032022 064110 AM INFO ********** TestAddCustomer003 **********
+08032022 064117 AM INFO ********** Login Successful **********
+08032022 064117 AM INFO ********** Starting Add Customer Test **********
+08032022 064257 AM INFO ********** TestLogin001 **********
+08032022 064257 AM INFO ********** Verifying Home Page Title **********
+08032022 064301 AM INFO ********** Home Page Title Passed **********
+08032022 064303 AM INFO ********** TestLogin001 **********
+08032022 064303 AM INFO ********** Verifying Login Page Title **********
+08032022 064354 AM INFO ********** TestAddCustomer003 **********
+08032022 064401 AM INFO ********** Login Successful **********
+08032022 064401 AM INFO ********** Starting Add Customer Test **********
+08032022 064407 AM INFO ********** Providing Customer Info **********
+08032022 064600 AM INFO ********** Saving Customer Info **********
+08032022 064600 AM INFO ********** Providing Customer Info **********
+08032022 064606 AM INFO ********** TestLogin001 **********
+08032022 064606 AM INFO ********** Verifying Home Page Title **********
+08032022 064609 AM INFO ********** Home Page Title Passed **********
+08032022 064610 AM INFO ********** TestLogin001 **********
+08032022 064610 AM INFO ********** Verifying Login Page Title **********
+08032022 064635 AM INFO ********** Login Page Title Passed **********
+08032022 064811 AM INFO ********** TestAddCustomer003 **********
+08032022 064817 AM INFO ********** Login Successful **********
+08032022 064817 AM INFO ********** Starting Add Customer Test **********
+08032022 064826 AM INFO ********** Providing Customer Info **********
+08032022 064844 AM INFO ********** Saving Customer Info **********
+08032022 064844 AM INFO ********** Providing Customer Info **********
+08032022 064844 AM INFO *********Add Customer Test is Passed********
+08032022 064844 AM INFO ********** Ending Add Customer Test **********
+08032022 064846 AM INFO ********** TestLogin001 **********
+08032022 064846 AM INFO ********** Verifying Home Page Title **********
+08032022 064851 AM INFO ********** Home Page Title Passed **********
+08032022 064853 AM INFO ********** TestLogin001 **********
+08032022 064853 AM INFO ********** Verifying Login Page Title **********
+08032022 064900 AM INFO ********** Login Page Title Passed **********
+08032022 070058 AM INFO ********** TestLogin001 **********
+08032022 070058 AM INFO ********** Verifying Home Page Title **********
+08032022 070104 AM INFO ********** Home Page Title Passed **********
+08032022 070106 AM INFO ********** TestLogin001 **********
+08032022 070106 AM INFO ********** Verifying Login Page Title **********
+08032022 070111 AM INFO ********** Login Page Title Passed **********
+08032022 070254 AM INFO ********** TestLogin001 **********
+08032022 070254 AM INFO ********** Verifying Home Page Title **********
+08032022 070257 AM INFO ********** Home Page Title Passed **********
+08032022 070303 AM INFO ********** TestLogin001 **********
+08032022 070303 AM INFO ********** Verifying Login Page Title **********
+08032022 070309 AM INFO ********** Login Page Title Passed **********
