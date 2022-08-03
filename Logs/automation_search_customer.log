@@ -122,3 +122,9 @@
 08022022 054013 PM INFO ********** TestLogin001 **********
 08022022 054013 PM INFO ********** Verifying Login Page Title **********
 08022022 054018 PM INFO ********** Login Page Title Passed **********
+08032022 063049 AM INFO ********** TestLogin001 **********
+08032022 063049 AM INFO ********** Verifying Home Page Title **********
+08032022 063052 AM INFO ********** Home Page Title Passed **********
+08032022 063054 AM INFO ********** TestLogin001 **********
+08032022 063054 AM INFO ********** Verifying Login Page Title **********
+08032022 063107 AM INFO ********** Login Page Title Passed **********

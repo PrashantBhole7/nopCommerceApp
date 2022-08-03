@@ -5,14 +5,14 @@ from selenium.webdriver.chrome.service import Service
 @pytest.fixture()
 def setup(browser):
     if browser == 'chrome':
-        serv_obj = Service("/usr/bin/chromedriver")
-        driver = webdriver.Chrome()
+        serv_obj = Service("C:\\Driver\\chromedriver_win32\\chromedriver.exe")
+        driver = webdriver.Chrome(service=serv_obj)
     elif browser == 'firefox':
         serv_obj = Service("/home/prashant/Documents/Browser_Driver/geckodriver")
         driver = webdriver.Firefox(service=serv_obj)
     else:
-        serv_obj = Service("/usr/bin/chromedriver")
-        driver = webdriver.Chrome()
+        serv_obj = Service("C:\\Driver\\chromedriver_win32\\chromedriver.exe")
+        driver = webdriver.Chrome(service=serv_obj)
     return driver
 
 
